@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AllPepole.github.io
+title: Allpepole software for all people
+email: myallpepole@gmail.com
+author: videomerger
+description: Allpepole software for all people, Media Player, Photo Editor, Mobile Trans, Video Converter, Video Merger , Video Cutter etc.
+paginate: 5
+google_analytics: 
