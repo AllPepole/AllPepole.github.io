@@ -2,6 +2,7 @@
 published: true
 title: The Necessary Software to Make a MV
 layout: post
+tags: [video, merger, video, merge, media, merger]
 ---
 With recent advances in computer and video technology, it becomes easier than ever to create amateur music videos. Like any artistic endeavor, the process of recording a music video can be rewarding, frustrating, funny, trying, exhausting, and thrilling - sometimes all at once. 
 
