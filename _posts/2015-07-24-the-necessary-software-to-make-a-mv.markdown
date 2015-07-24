@@ -14,4 +14,4 @@ Gradually, you will look to break your video into “scenes” that match your v
 
 Allpepole Video Merger at Mac APP store:
 
-<a href="http://www.allpepole.com/MyMerger_Mac"><b>video merger</b></a>
+https://itunes.apple.com/us/app/my-merger-pro/id940336802?mt=12
